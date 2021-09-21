@@ -1,0 +1,10 @@
+.country{
+    background-color: cornflowerblue;
+    color: black;
+    padding: 10px;
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+}
+.country img{
+    width: 200px;
+}
